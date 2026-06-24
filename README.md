@@ -21,9 +21,7 @@ of the proposed method, we conducted extensive experiments on a
 private dataset (CS2026) and three public datasets (ARCADE, DCA1,
 and XCAD). The Dice scores of MACFNet were at least 2.22%,
 2.46%, 1.95%, and 1.52% higher than those of other related meth-ods,
-respectively. The code is available at: https://github.com/
-anonymous-macf/MACFNet.
-
+respectively.
 ## 1. Overview
 
 <div align="center">
