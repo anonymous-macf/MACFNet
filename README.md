@@ -71,14 +71,14 @@ Please organize the dataset into the following format:
 ```
 
 
-## 4. Train the VGC-Net
+## 4. Train the MACFNet
 
 ```bash
 python main.py 
 
 ```
 
-## 5. Test the VGC-Net
+## 5. Test theMACFNet
 
 ```bash
 python evaluate.py 
