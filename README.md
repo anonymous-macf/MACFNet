@@ -34,6 +34,7 @@ The environment installation process can be carried out as follows:
 
 ```bash
 # Core Framework
+Python: 3.9.23
 torch==1.13.0+cu117 --extra-index-url https://download.pytorch.org/whl/cu117
 torchvision==0.14.0+cu117 --extra-index-url https://download.pytorch.org/whl/cu117
 
